@@ -1,6 +1,7 @@
 # This is the code for
 
 Scalable approximate Bayesian inference for particle tracking data
+
 Ruoxi Sun, Liam Paninski
 
 https://www.biorxiv.org/content/early/2018/03/05/276253

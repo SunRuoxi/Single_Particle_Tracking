@@ -2,7 +2,6 @@
 
 Scalable approximate Bayesian inference for particle tracking data
 Ruoxi Sun, Liam Paninski
-doi: https://doi.org/10.1101/276253
 
 https://www.biorxiv.org/content/early/2018/03/05/276253
 
